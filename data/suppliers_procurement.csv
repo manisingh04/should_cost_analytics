@@ -1,0 +1,11 @@
+supplier_id,supplier_name,country,state_region,core_manufacturing_capability,supplier_tier,annual_spend_allocated_usd,esg_sustainability_rating
+VND-MEC-01,Bharat Precision Die-Casting,India,Maharashtra (Pune),High Pressure Die Casting,Tier 1,1850000.0,9.1
+VND-MEC-02,Apex Light Alloy Foundries,India,Tamil Nadu (Coimbatore),High Pressure Die Casting,Tier 1,1420000.0,8.8
+VND-MEC-03,Ningbo SuperCast Technology,China,Zhejiang (Ningbo),High Pressure Die Casting,Tier 2,2100000.0,7.3
+VND-EXT-01,Gujarat Extrusions & Profiles,India,Gujarat (Vadodara),Aluminum Extrusion,Tier 1,1650000.0,9.3
+VND-EXT-02,EuroProfile Aluminium GmbH,Germany,Baden-Württemberg,Aluminum Extrusion,Tier 1,950000.0,9.6
+VND-EXT-03,Mekong Delta Extrusions,Vietnam,Binh Duong,Aluminum Extrusion,Tier 2,820000.0,8.1
+VND-STP-01,Capital Stamping & Sheet Metal,India,Haryana (Faridabad),Precision Sheet Metal,Tier 1,1250000.0,8.9
+VND-STP-02,Southern Press Tools & Parts,India,Tamil Nadu (Chennai),Precision Sheet Metal,Tier 2,740000.0,8.4
+VND-INJ-01,PolyPlast Precision Optics,India,Karnataka (Bangalore),Plastic Injection,Tier 1,920000.0,9.0
+VND-INJ-02,Dongguan ClearTech Molding,China,Guangdong (Dongguan),Plastic Injection,Tier 2,680000.0,7.6

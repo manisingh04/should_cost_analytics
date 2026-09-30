@@ -1,0 +1,41 @@
+part_id,part_description,luminaire_platform,material_alloy,net_finished_weight_kg,gross_shot_weight_kg,manufacturing_process,machine_clamping_tonnage,cycle_time_seconds,tooling_cavities,secondary_finish,annual_projected_volume
+PRT-STR-01,StreetStar 150W Die-Cast Main Housing,Road & Street,Aluminum ADC12,4.15,5.1,HPDC,650,48.0,1,Shot Blasting + Powder Coating,25000
+PRT-STR-02,StreetStar Top Access Maintenance Canopy,Road & Street,Aluminum ADC12,1.85,2.3,HPDC,400,36.0,1,Shot Blasting + Powder Coating,25000
+PRT-STR-03,Adjustable Tenon Mast Arm Spigot Adapter,Road & Street,Aluminum ADC12,1.25,1.55,HPDC,350,32.0,2,Shot Blasting + Powder Coating,30000
+PRT-STR-04,Galvanized Steel Mast Clamp Bracket,Road & Street,CRCA Steel,0.95,1.15,Sheet Metal Stamping,200,14.0,1,Electrostatic Painting,35000
+PRT-STR-05,Optical Polycarbonate Road Lens Plate,Road & Street,Polycarbonate Optical Grade,0.32,0.41,Injection Molding,180,28.0,4,None,40000
+PRT-STR-06,Internal Gear Tray Stamped Galvanized Base,Road & Street,CRCA Steel,0.78,0.92,Sheet Metal Stamping,160,12.0,1,None,28000
+PRT-STR-07,Roadway Luminaire Hinge Latch Assembly,Road & Street,Aluminum ADC12,0.28,0.39,HPDC,150,22.0,4,Shot Blasting + Powder Coating,50000
+PRT-STR-08,Surge Protector Retaining Saddle Clamp,Road & Street,CRCA Steel,0.12,0.15,Sheet Metal Stamping,80,8.0,2,None,30000
+PRT-STR-09,Streetlight Exterior Protective Visor Frame,Road & Street,Aluminum ADC12,0.85,1.1,HPDC,250,26.0,2,Shot Blasting + Powder Coating,20000
+PRT-STR-10,Tenon Angle Calibration Dial Plate,Road & Street,Aluminum ADC12,0.18,0.25,HPDC,100,18.0,4,Shot Blasting + Powder Coating,30000
+PRT-HBY-01,CoreLine Finned Thermal Heatsink 200W,Industrial HighBay,Aluminum 6063-T6,4.85,5.25,Extrusion,800,65.0,1,Chemical Anodizing,18000
+PRT-HBY-02,HighBay Central Electrical Gear Enclosure,Industrial HighBay,Aluminum ADC12,1.65,2.1,HPDC,400,34.0,1,Shot Blasting + Powder Coating,20000
+PRT-HBY-03,IP65 Sealed Cable Gland Entry Flange,Industrial HighBay,Aluminum ADC12,0.34,0.45,HPDC,150,20.0,2,Shot Blasting + Powder Coating,22000
+PRT-HBY-04,Spun Anodized Aluminum 90-Deg Reflector,Industrial HighBay,Aluminum 6063-T6,0.62,0.78,Extrusion,250,25.0,1,Chemical Anodizing,15000
+PRT-HBY-05,Suspension Hook Attachment Yoke Bracket,Industrial HighBay,CRCA Steel,0.55,0.68,Sheet Metal Stamping,150,11.0,1,Electrostatic Painting,25000
+PRT-HBY-06,Polycarbonate High-Impact Protective Bell,Industrial HighBay,Polycarbonate Optical Grade,0.48,0.59,Injection Molding,220,32.0,2,None,18000
+PRT-HBY-07,Auxiliary Emergency Battery Cradle Bracket,Industrial HighBay,CRCA Steel,0.42,0.52,Sheet Metal Stamping,120,9.0,1,None,12000
+PRT-HBY-08,HighBay 100W Radial Finned Heatsink Base,Industrial HighBay,Aluminum 6063-T6,2.95,3.25,Extrusion,600,48.0,1,Chemical Anodizing,22000
+PRT-HBY-09,Rotatable Pipe Mount Swivel Bracket,Industrial HighBay,Aluminum ADC12,0.78,1.02,HPDC,250,24.0,2,Shot Blasting + Powder Coating,16000
+PRT-HBY-10,Driver Heat Dissipation Backing Plate,Industrial HighBay,Aluminum 6063-T6,0.88,0.98,Extrusion,300,20.0,1,Chemical Anodizing,24000
+PRT-TRF-01,CleanSky 2x2 Deep Drawn Main Troffer Pan,Office Troffer,CRCA Steel,3.2,3.75,Sheet Metal Stamping,400,18.0,1,Electrostatic Painting,45000
+PRT-TRF-02,Longitudinal Snap-In Reflector Baffle,Office Troffer,CRCA Steel,0.85,1.02,Sheet Metal Stamping,200,12.0,2,Electrostatic Painting,90000
+PRT-TRF-03,Architectural Perimeter Extruded Trim 600mm,Office Troffer,Aluminum 6063-T6,0.42,0.48,Extrusion,250,16.0,2,Chemical Anodizing,60000
+PRT-TRF-04,Cleanroom Hermetic Gasket Clamp Strip,Office Troffer,CRCA Steel,0.38,0.45,Sheet Metal Stamping,120,10.0,2,Electrostatic Painting,35000
+PRT-TRF-05,Microprismatic Optical Diffuser Frame,Office Troffer,Polycarbonate Optical Grade,0.65,0.78,Injection Molding,250,34.0,2,None,45000
+PRT-TRF-06,T-Bar Ceiling Grid Mounting Clips (Set of 4),Office Troffer,CRCA Steel,0.15,0.18,Sheet Metal Stamping,80,7.0,4,None,80000
+PRT-TRF-07,Removable Gear Access Cover Plate,Office Troffer,CRCA Steel,0.52,0.61,Sheet Metal Stamping,150,9.0,1,Electrostatic Painting,40000
+PRT-TRF-08,Recessed Flange Trim Corner Key Joints,Office Troffer,Aluminum ADC12,0.085,0.12,HPDC,100,15.0,8,None,120000
+PRT-TRF-09,Linear Batten Continuous Trunking Channel 1.2m,Office Troffer,CRCA Steel,1.85,2.15,Sheet Metal Stamping,300,16.0,1,Electrostatic Painting,30000
+PRT-TRF-10,End-Cap Snap Fit Closure with Conduit Knockout,Office Troffer,Polycarbonate Optical Grade,0.075,0.095,Injection Molding,120,18.0,4,None,60000
+PRT-ARC-01,Metronomis Spun Aluminum Canopy Dome,Architectural,Aluminum 6063-T6,2.45,2.85,Extrusion,500,45.0,1,Chemical Anodizing,8000
+PRT-ARC-02,UrbanPark Fluted Column Base Cast Skirt,Architectural,Aluminum ADC12,3.1,3.85,HPDC,600,42.0,1,Shot Blasting + Powder Coating,9000
+PRT-ARC-03,Curved Swan-Neck Wall Bracket Arm,Architectural,Aluminum ADC12,1.95,2.45,HPDC,400,38.0,1,Shot Blasting + Powder Coating,11000
+PRT-ARC-04,Vandal-Resistant Cylindrical Polycarbonate Globe,Architectural,Polycarbonate Optical Grade,1.35,1.62,Injection Molding,350,48.0,1,None,10000
+PRT-ARC-05,Decorative Finial Top Crown Spire,Architectural,Aluminum ADC12,0.45,0.62,HPDC,180,24.0,2,Shot Blasting + Powder Coating,12000
+PRT-ARC-06,Internal Optical Louver Ring Shield,Architectural,Aluminum 6063-T6,0.38,0.44,Extrusion,200,18.0,2,Chemical Anodizing,14000
+PRT-ARC-07,Heavy-Duty Ground Anchor Base Flange,Architectural,CRCA Steel,2.8,3.25,Sheet Metal Stamping,400,18.0,1,Electrostatic Painting,12000
+PRT-ARC-08,Twin Luminaire Cross-Arm Header Beam,Architectural,Aluminum 6063-T6,2.65,2.95,Extrusion,500,38.0,1,Chemical Anodizing,6000
+PRT-ARC-09,Pole Access Door Flush Service Hatch,Architectural,Aluminum ADC12,0.52,0.68,HPDC,200,22.0,2,Shot Blasting + Powder Coating,15000
+PRT-ARC-10,Anti-Glare Frosted Ring Acrylic Diffuser,Architectural,Polycarbonate Optical Grade,0.28,0.34,Injection Molding,180,26.0,4,None,18000
